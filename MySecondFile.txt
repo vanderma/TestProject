@@ -1,2 +1,3 @@
 MySecondFile.txt
 Commit 2 on second file
+Commit 3 on second file
